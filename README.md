@@ -1,6 +1,6 @@
 # Git & GitHub Learning
 
-This is Muhammad Irfan's repository for learning Git and GitHub.
+This is Muhammad Irfan repository for learning Git and GitHub.
 
 I am practicing version control, commands, and workflows step by step.
 
@@ -10,4 +10,4 @@ I am practicing version control, commands, and workflows step by step.
 - Commands practice
 
 ## Goal
-To become confident in using Git and GitHub.
+To become confident in using Git and GitHub
